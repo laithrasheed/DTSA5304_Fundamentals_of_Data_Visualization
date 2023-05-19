@@ -1,4 +1,4 @@
-# World-Happiness-Report-2016-EDA-and-Visualization- MSDS5304
+# World-Happiness-Report-2016-EDA-and-Visualization- MSDS_5304
 
 ## You can refer to the visualization on my Tableau account by clicking on the following link : https://public.tableau.com/views/HappinessWorldReport2016Dataset/FinalProjectDeliveryforFundamentalsofVisualizationCourse?:language=en-GB&:display_count=n&:origin=viz_share_link
 
